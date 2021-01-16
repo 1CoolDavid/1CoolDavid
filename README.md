@@ -1,13 +1,17 @@
 ### Hi there, I'm David
 
+
+
 <!--
 **1CoolDavid/1CoolDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://www.linkedin.com/in/david-rudo-a16445179/">
-  <img align="left" alt="David Rudo | LinkedIn" width="30px" src="https://raw.githubusercontent.com/1CoolDavid/1CoolDavid/master/assets/linkedin.png"/>
-</a>
 
 ## I'm a Student, Developer, & Cybersecurity Researcher
+
+<a href="https://www.linkedin.com/in/david-rudo-a16445179/">
+  <img align="left" alt="David Rudo | LinkedIn" width="30px" src="https://raw.githubusercontent.com/1CoolDavid/1CoolDavid/master/assets/linkedin.webp"/>
+</a>
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=1CoolDavid&theme=dark&show_icons=true&count_private=true)
 
