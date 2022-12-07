@@ -11,9 +11,9 @@
 ## I'm a Student, Developer, & Cybersecurity Researcher
 
 
-![Github stats](github-readme-stats-bice-kappa.vercel.app/api?username=1CoolDavid&theme=dark&show_icons=true&count_private=true)
+![Github stats](http://github-readme-stats-1cooldavid.vercel.app/api?username=1CoolDavid&theme=dark&show_icons=true&count_private=true)
 
-![Top Languages Card](github-readme-stats-bice-kappa.vercel.app/api/top-langs/?username=1CoolDavid&langs_count=6&theme=dark&&count_private=true&layout=compact&hide=Makefile)
+![Top Languages Card](http://github-readme-stats-1cooldavid.vercel.app/api/top-langs/?username=1CoolDavid&langs_count=6&theme=dark&&count_private=true&layout=compact&hide=Makefile,Objective-C)
 
 
 **Languages and Tools:**  
