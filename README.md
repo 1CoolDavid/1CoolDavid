@@ -10,10 +10,12 @@
 
 ## I'm a Student, Developer, & Cybersecurity Researcher
 
-
-![Github stats](http://github-readme-stats-1cooldavid.vercel.app/api?username=1CoolDavid&theme=dark&show_icons=true&count_private=true)
-
-![Top Languages Card](http://github-readme-stats-1cooldavid.vercel.app/api/top-langs/?username=1CoolDavid&langs_count=6&theme=dark&&count_private=true&layout=compact&hide=Makefile,Objective-C)
+<a href="">
+  <img align="center" src="http://github-readme-stats-1cooldavid.vercel.app/api?username=1CoolDavid&theme=transparent&show_icons=true&count_private=true" />
+</a>
+<a href="">
+  <img align="center" src="http://github-readme-stats-1cooldavid.vercel.app/api/top-langs/?username=1CoolDavid&include_orgs=true&langs_count=6&theme=transparent&&count_private=true&layout=compact&hide=Makefile,Objective-C" />
+</a>
 
 
 **Languages and Tools:**  
